@@ -6,7 +6,7 @@ function GameMenuCard({ onStartGame }) {
 
       {/* Game Options - Adapt to your needs */}
       <div className="mb-4">
-        <label className="text-gray-400 block mb-2" htmlFor="difficulty">Difficulty:</label>
+        <label className="text-spotify-black2 block mb-2" htmlFor="difficulty">Difficulty:</label>
         <select className="bg-gray-700 text-spotify-black rounded-md px-3 py-2 w-full" id="difficulty">
           <option value="easy">Easy</option>
           <option value="medium">Medium</option>
